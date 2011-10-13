@@ -1,4 +1,8 @@
 class Basket < ActiveRecord::Base
   has_many :basket_items
-  include DiscountCalculator
+
+  def total_discount
+    DiscountCalculator.new.
+      total_discount(basket_items)
+  end
 end
