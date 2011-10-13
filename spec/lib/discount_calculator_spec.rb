@@ -1,3 +1,4 @@
+require 'active_support/core_ext/enumerable'
 require 'discount_calculator'
 describe DiscountCalculator do
   context "#total_discount" do
