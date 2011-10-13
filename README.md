@@ -7,8 +7,8 @@ example only covers unit tests designed to be run as part of a red/green/refacto
 integration suite which would be run before committing code.
 
 Please checkout the
-[slides]('https://github.com/seenmyfate/faster_rails_tests_showoff')
-from my [Magrails conference presenation]('http://www.magrails.com') or
+[slides]('https://github.com/seenmyfate/faster_rails_tests_presentation')
+from my [Magrails conference presentation]('http://www.magrails.com') or
 my [blog post]('http://tom-clements.com') for more specific details.
 
 ### master branch
@@ -59,17 +59,4 @@ This example inspired by Corey Haines' talk at Golden Gate Ruby Conf
 * coreyhaines - confreaks.net/videos/641-gogaruco2011-fast-rails-tests
 * garybernhardt - destroyallsoftware.com
 * martinfowler - objectmentor.com/resources/articles/srp.pdf
-
-
-
-
-
-This example inspired by Corey Haines' talk at Golden Gate Ruby Conf
-
-* coreyhaines - confreaks.net/videos/641-gogaruco2011-fast-rails-tests
-* garybernhardt - destroyallsoftware.com
-* martinfowler - objectmentor.com/resources/articles/srp.pdf
-
-
-
 
