@@ -1,5 +1,5 @@
 class DiscountCalculator
   def total_discount(items)
-    items.collect(&:discount).sum
+    items.collect(&:discount).inject(:+)
   end
 end
