@@ -49,8 +49,13 @@ extensions in the test:
 
 ### testing_helpers_without_rails branch
 
-This example demonsrates a way to test Rails helpers without including
+This example demonstrates a way to test Rails helpers without including
 Rails
+
+## loads_of_tests branch
+
+This example contains 1002 specs to demonstrate how this approach could
+work on a larger scale - on my mac this will run in under a second
 
 ## Further reading
 
