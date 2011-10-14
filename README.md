@@ -54,8 +54,9 @@ Rails
 
 ## loads_of_tests branch
 
-This example contains 1002 specs to demonstrate how this approach could
-work on a larger scale - on my mac this will run in under a second
+This example contains 1000 specs - and whilst this is a convtrived
+example, it's included here to demonstrate how this approach could
+work on a larger scale - for me these specs run in under a second
 
 ## Further reading
 
