@@ -1,8 +1,8 @@
 require 'active_support/core_ext/enumerable'
 require 'discount_calculator'
 describe DiscountCalculator do
-  
-  1000.times do
+
+  998.times do
     context "#total_discount" do
       let(:items) { [stub(:discount => 10),
         stub(:discount => 20)] }
