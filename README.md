@@ -59,7 +59,7 @@ work on a larger scale - on my mac this will run in under a second
 
 ## Further reading
 
-This example inspired by Corey Haines' talk at Golden Gate Ruby Conf
+This example taken from real life code, refactoring inspired by Corey Haines' talk at Golden Gate Ruby Conf
 
 * coreyhaines - confreaks.net/videos/641-gogaruco2011-fast-rails-tests
 * garybernhardt - destroyallsoftware.com
