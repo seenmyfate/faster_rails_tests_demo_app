@@ -1,4 +1,4 @@
-require 'discount_calculator'
+require_relative '../../app/models/discount_calculator'
 describe DiscountCalculator do
   context "#total_discount" do
     let(:items) { [stub(:discount => 10),
